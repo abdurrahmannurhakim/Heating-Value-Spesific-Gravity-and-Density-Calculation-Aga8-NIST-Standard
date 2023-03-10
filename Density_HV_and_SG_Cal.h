@@ -3,7 +3,7 @@
 // Author      : Abdurrahman Nurhakim
 // Version     : 1.0
 // Copyright   : Your copyright notice
-// Description : Calculate Density and Spesific Gravity in C++
+// Description : Calculate Heating Value, Density and Spesific Gravity in C++
 //============================================================================
 
 #include <stdlib.h>
